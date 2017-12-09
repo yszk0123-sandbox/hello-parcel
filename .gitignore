@@ -1,0 +1,12 @@
+.cache/
+build/
+coverage/
+dist/
+node_modules/
+
+*.log
+.env
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
